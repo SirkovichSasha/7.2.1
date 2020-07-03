@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMap</string>
+    <string name="coordinatesView">Введите координаты</string>
+    <string name="search">Ищем</string>
+</resources>
